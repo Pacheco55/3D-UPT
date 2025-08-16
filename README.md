@@ -1,6 +1,9 @@
 # 3D-UPT
 Modelo 3D del logo base UPT , de mi para la comunidad Universitaria UPT .
 
+![Image](https://github.com/user-attachments/assets/f315509e-cc23-4c8a-8178-b9a095c9742a)
+
+
 ## **Consideraciones Legales**
 
 **IMPORTANTE**: Este Modelo no deve ser usado para fines comerciales ni para su explotacion con fines de lucro .
