@@ -37,7 +37,7 @@ Modelo 3D del logo base UPT , de mi para la comunidad Universitaria UPT .
 
 ¿Necesitas ayuda? ¡Estamos aquí para ti!
 
-**Sugerencias**: Discussions en el repositorio
+**Sugerencias**: Contactame para mas modelos 
 
 ## 🌐 Contacto : 5559300286
 
@@ -72,8 +72,3 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para detalles.
 
 
 </div>
-
-**[Instagram](https://www.instagram.com/pixelbits_studios/) | [YouTube](https://www.youtube.com/channel/UCkLUjIeYTECtigFdcQjWu5Q) | [Twitter](https://x.com/pixelbitstud) | [Twitch](https://www.twitch.tv/pixelbits_studio/about)**
-
----
-
